@@ -34,6 +34,6 @@ sonlar.forEach(function (son) {
     if (son > 50) {
         p.style = "background-color: green; text-align: center; font-size: 30px; color: white"
     } else{
-        p.style = "background-color: red; text-align: center; font-size: 3  0px; color: white"
+        p.style = "background-color: red; text-align: center; font-size: 30px; color: white"
     }
 });
